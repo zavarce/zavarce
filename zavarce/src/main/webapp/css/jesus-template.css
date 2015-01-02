@@ -1,0 +1,90 @@
+
+body {
+  padding-top: 10px;
+  background-image: url("../img/brickwall.png");
+
+}
+
+.starter-template {
+  padding: 40px 15px;
+  
+}
+
+.navbar-inverse {
+    background: #E0E0E0  ;
+    box-shadow: 0 0 5px 5px #656565 ;
+}
+
+#headshot {
+	padding:7px;
+	width:120px;
+	border-radius: 75px;
+	vertical-align: bottom;
+}
+
+#go-to-top:hover, #title-navbar:hover, #navbar ul li a:hover {
+color: red;	
+}
+
+#graffiti {
+padding-top: 25px;
+vertical-align: bottom;
+}
+
+.spacing-min {
+ word-spacing: -8px;
+}
+
+#title-navbar {
+    display:none;
+}	
+
+	
+@media all and (max-width: 1250px) {
+
+	#title-navbar {
+		display:initial;
+	}	
+	#headshot, #graffiti, #title, #jesus-up {
+			display: none;
+	}
+}
+.p-justify {
+ text-align: justify;
+ text-justify: inter-word;
+}
+#jesus-up {
+	border-radius: 30px;
+	border: 1px solid black;
+	box-shadow: 4px 4px 2px #888888;
+}
+footer {
+	text-align: right;
+}
+
+.pMin {
+  font-size: 100% !important;
+}
+
+.sections {display:none;}
+
+.jumbotron{
+padding: 4px;
+	background-color: white;
+}
+#skills li, #formations li, #projets li{
+margin:0 0 12px 0;  
+}
+#go-to-top:hover {
+	color:red;
+}
+#go-to-top{
+	display:none;
+	cursor: pointer; 
+	cursor: hand;
+	color:blue;
+	 
+}
+
+
+

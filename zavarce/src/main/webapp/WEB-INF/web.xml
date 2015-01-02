@@ -13,6 +13,12 @@
         <url-pattern>/sign</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
-        <welcome-file>guestbook.jsp</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
+    <jsp-config>
+	    <jsp-property-group>
+	        <url-pattern>*.jsp</url-pattern>
+	        <page-encoding>UTF-8</page-encoding>
+	    </jsp-property-group>
+	</jsp-config>
 </web-app>
