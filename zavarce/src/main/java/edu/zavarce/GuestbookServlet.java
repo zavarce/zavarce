@@ -35,6 +35,7 @@ public class GuestbookServlet extends HttpServlet {
     User currentUser = userService.getCurrentUser();
 
     if (currentUser != null) {
+    	
       resp.setContentType("text/plain");
       resp.getWriter().println("Hello, " + currentUser.getNickname());
     } else {

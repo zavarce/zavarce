@@ -16,7 +16,7 @@
 				<li id="nav-bar-item-jobs"><a href="jobs.jsp"><span class="glyphicon glyphicon-list-alt" /> Expériences</a></li>
 				<li id="nav-bar-item-skills" class="active"><a href="skills.jsp"><span class="glyphicon glyphicon-star" /> Compétences</a></li>
 				<li id="nav-bar-item-formations"><a href="formations.jsp"><span class="glyphicon glyphicon-bookmark" /> Formations</a></li>
-				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projects</a></li>
+				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projets</a></li>
 				<!--<li id="nav-bar-item-6"><a href="#about"><span class="glyphicon glyphicon-glass" /> Loisirs</a></li>
 				<li id="nav-bar-item-7"><a href="#about"><span class="glyphicon glyphicon-pencil" /> Mon Blog</a></li>
 				 <li id="nav-bar-item-8"><a href="#about"><span class="glyphicon glyphicon-bullhorn" /> Forum</a></li> 

@@ -16,7 +16,7 @@
 				<li id="nav-bar-item-jobs"><a href="jobs.jsp"><span class="glyphicon glyphicon-list-alt" /> Expériences</a></li>
 				<li id="nav-bar-item-skills"><a href="skills.jsp"><span class="glyphicon glyphicon-star" /> Compétences</a></li>
 				<li id="nav-bar-item-formations"><a href="formations.jsp"><span class="glyphicon glyphicon-bookmark" /> Formations</a></li>
-				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projects</a></li>
+				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projets</a></li>
 				<!--<li id="nav-bar-item-6"><a href="#about"><span class="glyphicon glyphicon-glass" /> Loisirs</a></li>
 				<li id="nav-bar-item-7"><a href="#about"><span class="glyphicon glyphicon-pencil" /> Mon Blog</a></li>
 				 <li id="nav-bar-item-8"><a href="#about"><span class="glyphicon glyphicon-bullhorn" /> Forum</a></li> 
@@ -28,15 +28,15 @@
 	<section id="home" class="jumbotron sections">
 		<div class="row">
 			<div class="col-md-10">
-				<h1> </span>Presentation</h1> <br />
+				<h1> </span>Présentation</h1> <br />
 				<p class="p-justify"> Après plusieurs années passées dans la maintenance informatique, j'ai découvert l'univers du développement 
 					d'applications. Passionné par les nouvelles technologies de l'information, j'ai décidé d'orienter ma carrière professionnelle
-					dans celui du développement des applications Java /JEE. 
+					dans le domaine du développement des applications Java /JEE. 
 				</p>
-				<p class="p-justify">Pour aboutir mes objectives, j'ai suivi une formation de Technicien Supérieur en Informatique (Bac+3) au Venezuela.
-					A la fin de mes études j'ai travaille pendant 6 mois tant que développeur Java /JEE et ensuite lors d'un concours, j'ai gagné une bourse
-					d'études que m'a permis d'effectuer une licence professionnel en développement d’application web Intranet-Extranet à l’IUT de Rodez et
-					de poursuivre en master professionnel informatique dans la spécialité: fiabilité, sécurité et intégration logicielle à l'Université 
+				<p class="p-justify">Pour aboutir à mes objectifs, j'ai suivi une formation de Technicien Supérieur en Informatique (Bac+3) au Venezuela.
+					A la fin de mes études, j'ai travaillé pendant 6 mois comme développeur Java/JEE. Ensuite, lors d'un concours, j'ai gagné une bourse
+					d'études que m'a permis d'effectuer une licence professionnelle en développement d’applications web Intranet-Extranet à l’IUT de Rodez, et
+					de poursuivre en master professionnel informatique dans la spécialité fiabilité, sécurité et intégration logicielle à l'Université 
 					d'Aix Marseille. 
 				</p>
 			</div>

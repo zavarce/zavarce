@@ -16,7 +16,7 @@
 				<li id="nav-bar-item-jobs"><a href="jobs.jsp"><span class="glyphicon glyphicon-list-alt" /> Expériences</a></li>
 				<li id="nav-bar-item-skills"><a href="skills.jsp"><span class="glyphicon glyphicon-star" /> Compétences</a></li>
 				<li id="nav-bar-item-formations" class="active"><a href="formations.jsp"><span class="glyphicon glyphicon-bookmark" /> Formations</a></li>
-				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projects</a></li>
+				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projets</a></li>
 				<!--<li id="nav-bar-item-6"><a href="#about"><span class="glyphicon glyphicon-glass" /> Loisirs</a></li>
 				<li id="nav-bar-item-7"><a href="#about"><span class="glyphicon glyphicon-pencil" /> Mon Blog</a></li>
 				 <li id="nav-bar-item-8"><a href="#about"><span class="glyphicon glyphicon-bullhorn" /> Forum</a></li> 
@@ -43,7 +43,7 @@
 	  <div class="row">
 	  <div class="col-md-12">
 		<article class="jumbotron">
-			<h3>Formations Specialisées</h3><br />
+			<h3>Formations Spécialisées</h3><br />
 			<ul>
 				 <li><b>2010 - Stage de Français Langue Etrangère.</b> Montpellier - France. Durée : 2 mois.</li>
 				 <li><b>2009 - Cours de développement de logiciels libres -  Applications E-Business.</b> IBM-Venezuela. Durée : 11 mois</li>
