@@ -8,7 +8,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button> 
-			<a id="title-navbar" class="navbar-brand" href="index.jsp" />Jesus ZAVARCE</a> 
+			<a id="title-navbar" class="navbar-brand" href="index.jsp">Jesus ZAVARCE</a> 
 	    </div>
 		<div id="navbar" class="collapse navbar-collapse spacing-min" >
 			<ul class="nav navbar-nav">
@@ -19,8 +19,8 @@
 				<li id="nav-bar-item-projets"><a href="projets.jsp"><span class="glyphicon glyphicon-lock" /> Projets</a></li>
 				<!--<li id="nav-bar-item-6"><a href="#about"><span class="glyphicon glyphicon-glass" /> Loisirs</a></li>
 				<li id="nav-bar-item-7"><a href="#about"><span class="glyphicon glyphicon-pencil" /> Mon Blog</a></li>
-				 <li id="nav-bar-item-8"><a href="#about"><span class="glyphicon glyphicon-bullhorn" /> Forum</a></li> 
-				<li id="nav-bar-item-9"><a href="#contact"><span class="glyphicon glyphicon-phone-alt"> Contact</a></li>-->
+				 <li id="nav-bar-item-8"><a href="#about"><span class="glyphicon glyphicon-bullhorn" /> Forum</a></li> -->
+				<li id="nav-bar-item-9"><a href="contact.jsp"><span class="glyphicon glyphicon-phone-alt"> Contact</a></li>
 			</ul>
 		</div>
  	</nav>
@@ -28,7 +28,7 @@
 	<section id="home" class="jumbotron sections">
 		<div class="row">
 			<div class="col-md-10">
-				<h1> </span>Présentation</h1> <br />
+				<h1> Présentation</h1> <br />
 				<p class="p-justify"> Après plusieurs années passées dans la maintenance informatique, j'ai découvert l'univers du développement 
 					d'applications. Passionné par les nouvelles technologies de l'information, j'ai décidé d'orienter ma carrière professionnelle
 					dans le domaine du développement des applications Java /JEE. 
