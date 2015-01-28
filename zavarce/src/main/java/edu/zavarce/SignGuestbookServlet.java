@@ -69,7 +69,7 @@ public class SignGuestbookServlet extends HttpServlet {
     String msgBody = "EJEMPLO";
 try {
         Message msg = new MimeMessage(session);
-        msg.setFrom(new InternetAddress("zavarce@gmail.com", "Example.com Admin"));
+        msg.setFrom(new InternetAddress("contact@jesus-zavarce.com", "Example.com Admin"));
     msg.addRecipient(Message.RecipientType.TO,
                     new InternetAddress("zavarce@gmail.com", "Mr. User"));
         msg.setSubject("Your Example.com account has been activated");
