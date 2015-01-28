@@ -1,24 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
-<web-app
-        version="2.5"
-        xmlns="http://java.sun.com/xml/ns/javaee"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
-    <servlet>
-        <servlet-name>sign</servlet-name>
-        <servlet-class>edu.zavarce.SignGuestbookServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>sign</servlet-name>
-        <url-pattern>/sign</url-pattern>
-    </servlet-mapping>
-    <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
-    <jsp-config>
-	    <jsp-property-group>
-	        <url-pattern>*.jsp</url-pattern>
-	        <page-encoding>UTF-8</page-encoding>
-	    </jsp-property-group>
-	</jsp-config>
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:jsp="http://java.sun.com/xml/ns/javaee/jsp" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <servlet>
+    <servlet-name>sign</servlet-name>
+    <servlet-class>edu.zavarce.SignGuestbookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sign</servlet-name>
+    <url-pattern>sign</url-pattern>
+  </servlet-mapping>
+
+  <jsp-config>
+    <jsp-property-group>
+      <url-pattern>*.jsp</url-pattern>
+      <page-encoding>UTF-8</page-encoding>
+    </jsp-property-group>
+  </jsp-config>
+  	<servlet>
+		<servlet-name>springMVC</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+  	</servlet>
+  
+	<servlet-mapping>
+		<servlet-name>springMVC</servlet-name>
+		<url-pattern>/</url-pattern>
+		<url-pattern>/formations</url-pattern>
+		<url-pattern>/jobs</url-pattern>
+		<url-pattern>/skills</url-pattern>
+		<url-pattern>/projets</url-pattern>
+		<url-pattern>/contact</url-pattern>
+	</servlet-mapping>
+	
+	<error-page>
+	<error-code>404</error-code>
+	<location>/WEB-INF/jsp/404.jsp</location>
+</error-page>
+ 
+<error-page>
+	<exception-type>java.lang.Exception</exception-type>
+	<location>/WEB-INF/404.jsp</location>
+</error-page>
 </web-app>

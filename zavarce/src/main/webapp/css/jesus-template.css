@@ -39,19 +39,14 @@ vertical-align: bottom;
     display:none;
 }	
 
-	
-@media all and (max-width: 1250px) {
-
-	#title-navbar {
-		display:initial;
-	}	
-	#headshot, #graffiti, #title, #jesus-up {
-			display: none;
+	.br-display{
+	display:none;
 	}
-}
+
 .p-justify {
- text-align: justify;
- text-justify: inter-word;
+	 text-align: justify;
+	 text-justify: inter-word;
+	
 }
 #jesus-up {
 	border-radius: 30px;
@@ -69,8 +64,9 @@ footer {
 .sections {display:none;}
 
 .jumbotron{
-padding: 4px;
+	padding: 4px;
 	background-color: white;
+
 }
 #skills li, #formations li, #projets li{
 margin:0 0 12px 0;  
@@ -85,6 +81,39 @@ margin:0 0 12px 0;
 	color:blue;
 	 
 }
+.big-button{
+	width: 100%;
+}
 
+input.valid {
+    background: url("../img/icon-ok.png") no-repeat scroll right center #e3ffe5;
+    border-color: #96b796 !important;
+    color: #002f00;
+ }
 
+input.error {
+    background: url("../img/icon-fail.png") no-repeat scroll right center #ffebef;
+    color: #480000;
+}
 
+@media all and (max-width: 1250px) {
+
+	#title-navbar {
+		display:initial;
+	}	
+	#headshot, #graffiti, #title, #jesus-up {
+			display: none;
+	}
+	
+	.btn.btn-default h2 {
+	  font-weight: bold;
+	  font-size: 100%;
+	}
+	.br-display{
+	display:inline;
+	}
+	.p-justify{
+	  font-size: small  !important;
+	}
+	
+}
