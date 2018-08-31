@@ -40,7 +40,7 @@
 			<h4>Environnement technique : </h4>
 				<ul>
 					 <li>Technologies : 
-					 					 <span class="label label-default">Google App Angine</span>
+					 					 <span class="label label-default">Google App Engine</span>
 					 <span class="label label-default">Spring MVC</span>
 					 <span class="label label-default">JSP</span>
 					 <span class="label label-default">HTML5</span>
