@@ -42,6 +42,7 @@
 					 <li>Technologies : 
 					 					 <span class="label label-default">Google App Engine</span>
 					 <span class="label label-default">Spring MVC</span>
+					 <span class="label label-default">JavaMail API</span>
 					 <span class="label label-default">JSP</span>
 					 <span class="label label-default">HTML5</span>
 					 <span class="label label-default">Bootstrap</span>
