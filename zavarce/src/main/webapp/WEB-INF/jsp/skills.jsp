@@ -82,6 +82,7 @@
 				 	<span class="label label-default">Subversion</span>
 				 	<span class="label label-default">GitHub</span>
 				 	<span class="label label-default">Maven</span>
+				 	<span class="label label-default">Jira</span>
 				 </li>
 				 <li><b>Modélisation : </b><br />
 				  	<span class="label label-default">UML</span>
@@ -91,6 +92,25 @@
 				 	<span class="label label-default">Scrum</span>
 				 </li>
 			</ul>  
+		</article>
+	  </div>
+	  <div class="col-md-6">
+		<article class="jumbotron">
+			<h3> Compétences Fonctionnelles</h3><br />
+			<ul>
+				 <li>Analyse fonctionnelle et technique des besoins</li>
+				 <li>Rédaction des spécifications</li>
+				 <li>Conception et implémentation des évolutions</li>
+				 <li>Création des diagrammes UML</li>
+				 <li>Détection et correction des bugs</li>
+				 <li>Création de batch</li>
+				 <li>Gestion des configurations applicatives</li>
+				 <li>Préparation et coordination de mises en production</li>
+				 <li>Gestion de la base de données</li>
+				 <li>Participation au chiffrage</li>
+				 <li>Rédaction des guides utilisateurs</li>
+				 <li>Formation, accompagnement et support aux utilisateurs</li>
+			</ul>
 		</article>
 	  </div>
 	  <div class="col-md-6">

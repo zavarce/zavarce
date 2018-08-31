@@ -36,6 +36,30 @@
 	 <div class="row">
 	  <div class="col-md-12">
 		<article class="jumbotron">
+			<h3>Site web personnel : <a href="http://jesus-zavarce.com/">jesus-zavarce.com</a><br /></h3>
+			<h4>Environnement technique : </h4>
+				<ul>
+					 <li>Technologies : 
+					 					 <span class="label label-default">Google App Angine</span>
+					 <span class="label label-default">Spring MVC</span>
+					 <span class="label label-default">JSP</span>
+					 <span class="label label-default">HTML5</span>
+					 <span class="label label-default">Bootstrap</span>
+					 <span class="label label-default">jQuery</span>
+					 <span class="label label-default">Maven</span>
+
+					 </li>
+					 <li>Outils utilisés : 
+					 <span class="label label-default">Eclipse</span>
+					 <span class="label label-default">GitHub</span>
+					 </li>
+				</ul>  
+			</article>
+	  </div>
+	</div>
+	 <div class="row">
+	  <div class="col-md-12">
+		<article class="jumbotron">
 			<h3>GOF : Gestion de l’offre de formation de l’universite d’Aix Marseille <br />
 			<small>Aix-Marseille Université.<br /> 
 				Décembre 2012 - Mars 2013 / 4 mois.</small> 
