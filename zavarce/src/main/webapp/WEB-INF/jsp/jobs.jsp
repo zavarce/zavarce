@@ -87,7 +87,7 @@
 				<ul>
 					 <li>Le projet a été terminé. Les gérants monétaires ont maintenant une vision plus détaillée de leurs portfolios; 
 					 la valorisation des instruments qui le composent est plus simple grâce aux indicateurs et aux différentes fonctionnalités qui ont été développées. </li>
-					 <li>J’ai acquis des compétences dans le domaine de la finance, j'ai approfundi mes connaissances sur les  bonnes practiques de dévellopement</li>
+					 <li>J’ai acquis des compétences dans le domaine de la finance, j'ai approfundi mes connaissances sur les  bonnes practiques de dévellopement.</li>
 				</ul>  
 			 </div>
 			</div>
