@@ -226,7 +226,6 @@
 					 <span class="label label-default">JavaScript</span>
 					 <span class="label label-default">HTML</span>
 					 <span class="label label-default">CSS</span>
-					 <span class="label label-default">JavaScript</span>
 					 <span class="label label-default">MySQL</span>
 					 </li>
 					 <li>Outil utilisé : 
@@ -275,7 +274,6 @@
 					 <span class="label label-default">CSS</span>
 					 <span class="label label-default">XML</span>
 					 <span class="label label-default">XSLT</span>
-					 <span class="label label-default">JavaScript</span>
 					 <span class="label label-default">MySQL</span>
 					 </li>
 					 <li>Outil utilisé : 
