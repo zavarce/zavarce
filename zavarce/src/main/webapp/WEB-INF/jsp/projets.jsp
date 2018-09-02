@@ -52,7 +52,7 @@
 					 </li>
 					 <li>Outils utilisés : 
 					 <span class="label label-default">Eclipse</span>
-					 <span class="label label-default">GitHub</span>
+					 <span class="label label-default">Git</span>
 					 </li>
 				</ul>  
 			</article>
@@ -80,7 +80,7 @@
 					 </li>
 					 <li>Outils utilisés : 
 					 <span class="label label-default">Eclipse</span>
-					 <span class="label label-default">GitHub</span>
+					 <span class="label label-default">Git</span>
 					 <span class="label label-default">MySQL Workbench</span>
 					 </li>
 				</ul>  
