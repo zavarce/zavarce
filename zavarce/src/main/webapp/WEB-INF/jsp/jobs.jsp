@@ -76,7 +76,7 @@
 					 <li>Outils utilisés :<br /><span class="label label-default">Eclipse</span> 
 											<span class="label label-default">SQuirreL SQL</span> 
 					 						<span class="label label-default">Git</span> 
-					 						<span class="label label-default">GitLab</span>>
+					 						<span class="label label-default">GitLab</span>
 					 						<span class="label label-default">Jenkins</span>
 					 						<span class="label label-default">Sonar</span>
 					 						<span class="label label-default">Jira</span>
