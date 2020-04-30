@@ -35,8 +35,65 @@
 	<section id="jobs" class="sections">
 	 <div class="row">
 	  <div class="col-md-12">
+		
+		<article class="jumbotron">
+			<button class="btn btn-default big-button" type="button" data-toggle="collapse" data-target="#collapseAgrica"> 
+				<h2>Ingénieur d’études <br class="br-display" /> et <br class="br-display" />  développement Java / JEE</h2> <span class="pull-right glyphicon glyphicon-plus"></span>
+				<br class="br-display" /> (AGRICA - Paris - FRANCE)	 <br class="br-display" />Octobre  2018 - Aujourd'hui
+			</button>
+			<div id="collapseAgrica" class="collapse" >
+			 <div class="well">
+				<h3>Projet : Développement de services Web REST</h3>
+				<h4>Contexte client :</h4>
+				<p class="pMin"> Le Groupe AGRICA est un groupe de protection sociale complémentaire dédié au monde agricole. Il assure aux entreprises et aux salariés agricoles, des solutions et des services en matière de retraite complémentaire, prévoyance, santé et épargne.</p>
+				<h4>Analyse et suivi du projet :</h4>
+				<h4>Réalisations: </h4>
+				<ul>
+					 <li>Implémentation des services webs pour la gestion de facturation, cotisations, habilitations, etc</li>
+					 <li>Création des rapports avec JasperReports.</li>
+					 <li>Traitement des incidents.</li>
+					 <li>Amélioration du code existant (suppression du code dupliqué, création de tests unitaires, refactoring du code)</li>
+				</ul> 
+				<h4>Environnement technique : </h4>
+				<ul>
+					 <li>Technologies :<br /><span class="label label-default">Java SE 11</span>
+											<span class="label label-default">Apache CXF</span>
+											<span class="label label-default">REST</span> 
+											<span class="label label-default">Postman</span> 
+											<span class="label label-default">Swagger</span> 
+											<span class="label label-default">Feign</span> 
+											<span class="label label-default">JPA, Hibernate</span> 
+					 						<span class="label label-default">Spring Core</span>
+					 						<span class="label label-default">Spring Boot</span>
+					 						<span class="label label-default">Spring MVC</span>
+											<span class="label label-default">Spring Data</span>
+											<span class="label label-default">Spring Security</span>
+											<span class="label label-default">MapStruct</span>
+					 						<span class="label label-default">Maven</span>	
+					 						<span class="label label-default">JWT</span>
+					 						<span class="label label-default">JUnit</span>
+											<span class="label label-default">Fitness</span>		 
+					 </li>
+					 <li>Outils utilisés :<br /><span class="label label-default">IntelliJ</span> 
+											<span class="label label-default">Heidi SQL</span> 
+					 						<span class="label label-default">Git</span> 
+					 						<span class="label label-default">GitLab</span>
+					 						<span class="label label-default">Jenkins</span>
+					 						<span class="label label-default">Sonar</span>
+					 						<span class="label label-default">Jira</span>
+					 </li>
+					  <li>Méthode :<br /> <span class="label label-default">Scrum</span></li>
+				</ul>  
+				<h4>Résultats : </h4>
+				<ul>
+					 <li>La pluparts des web services qui m'ont été confiés sont aujourd'hui en production</li>
+					 <li>J'ai approfundi mes connaissances sur le devellopement des API REST</li>
+				</ul>  
+			 </div>
+			</div>
+		</article>
 
-	  	  	<article class="jumbotron">
+		<article class="jumbotron">
 			<button class="btn btn-default big-button" type="button" data-toggle="collapse" data-target="#collapseAmundi"> 
 				<h2>Ingénieur d’études <br class="br-display" /> et <br class="br-display" />  développement Java / JEE</h2> <span class="pull-right glyphicon glyphicon-plus"></span>
 				<br class="br-display" /> (Amundi - Paris - FRANCE)	 <br class="br-display" />Février 2015 - Septembre 2018 (3 ans et 8 mois)

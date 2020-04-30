@@ -47,6 +47,7 @@
 				 	<span class="label label-default">JEE</span>
 					<span class="label label-default">Spring MVC</span>
 					<span class="label label-default">Spring WS</span>
+					<span class="label label-default">Spring Data</span>
 					<span class="label label-default">Hibernate</span>
 					<span class="label label-default">JAXB</span>
 					<span class="label label-default">GWT</span>
@@ -55,6 +56,7 @@
 					<span class="label label-default">test unitaire - Junit</span>
 					<span class="label label-default">test de performance - JMeter</span>
 					<span class="label label-default">test de couverture - Emma</span>
+					<span class="label label-default">Fitness</span>
 				   </li>
 				   
 				 <li><b>Bases de données : </b><br />
@@ -75,8 +77,9 @@
 					<span class="label label-default">XSL/FO</span>
 				</li>
 				 <li><b>IDE : </b><br /> 
-				 	<span class="label label-default">Eclipse</span>
-				 	<span class="label label-default">NetBeans</span>
+					<span class="label label-default">IntelliJ</span>
+					<span class="label label-default">Eclipse</span>
+					<span class="label label-default">NetBeans</span>
 				 </li>
 				 <li><b>Gestion de projet : </b><br /> 
 				 	<span class="label label-default">Subversion</span>
